@@ -1,6 +1,6 @@
 # SC_case_data
 Owing to a lack of any Indian case data available on the internet, I am uploading a 10,000 case corpus that includes the case name; citation number; date; Bench; appellant advocates; Respondent advocates; Issue; Decision of each case.
-The classifications were produced using ML algorithms that are primarily open-source which I have then tailored to my requirements. If anyone is interested, you can contact me at noelshallum@gmail.com.
+If anyone is interested in collaboration, you can contact me at noelshallum@gmail.com.
 
 Note:
 1. All the cases in the file are civil cases, as the data was careated primarily for my personal use.
